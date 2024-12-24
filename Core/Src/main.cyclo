@@ -1,0 +1,17 @@
+../Core/Src/main.c:57:5:__io_putchar	1
+../Core/Src/main.c:85:6:preemptive	1
+../Core/Src/main.c:94:6:yielding	1
+../Core/Src/main.c:107:6:print_continuously	1
+../Core/Src/main.c:113:6:print_one	1
+../Core/Src/main.c:122:6:print_two	1
+../Core/Src/main.c:131:6:jumpAssembly	1
+../Core/Src/main.c:139:6:run_thread	1
+../Core/Src/main.c:143:6:print_success	1
+../Core/Src/main.c:148:6:print_working	1
+../Core/Src/main.c:152:6:print_exiting	1
+../Core/Src/main.c:156:6:thread_function	1
+../Core/Src/main.c:170:5:main	1
+../Core/Src/main.c:266:6:SystemClock_Config	3
+../Core/Src/main.c:313:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:346:13:MX_GPIO_Init	1
+../Core/Src/main.c:386:6:Error_Handler	1
